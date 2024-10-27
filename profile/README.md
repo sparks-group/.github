@@ -15,7 +15,7 @@ Our team includes talented postdoctoral researchers, PhD and MS students, and un
 - **Dr. Taylor D. Sparks** - Professor, Materials Science & Engineering Department
 
 ### Postdoctoral Researchers
-- **Dr. Victor Villapun** - Biomedical alloys, sponsored by the Royal Society
+- **Dr. Arda Kocaman** - specializing in informatics for 3d printing.
 
 ### PhD Students (Selected)
 - Hasan Sayeed, Ramsey Issa, Trupti Mohanty, and others specializing in materials informatics, some sponsored by industry partners like Micron and ES3.
