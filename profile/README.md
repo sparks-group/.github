@@ -27,3 +27,6 @@ Our team includes talented postdoctoral researchers, PhD and MS students, and un
 We continuously seek driven individuals to join our research efforts. Contact Dr. Sparks for potential research opportunities.
 
 For detailed information about our group and recent publications, please visit our [official website](https://my.eng.utah.edu/~sparks/group.html).
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
