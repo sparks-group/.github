@@ -23,12 +23,6 @@ Our team includes talented postdoctoral researchers, PhD and MS students, and un
 ## 🏆 **Achievements & News**
 - Recent recognition includes Dr. Sparks’ involvement in the STAR Fellow program, international presentations, and group members’ successful thesis defenses.
 
-## 📈 **Open Positions**
-We continuously seek driven individuals to join our research efforts. Contact Dr. Sparks for potential research opportunities.
-
-For detailed information about our group and recent publications, please visit our [official website](https://my.eng.utah.edu/~sparks/group.html).
-
-
 ## 📹 **Youtube Channel**
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Episode 95: You Don't Know Anything About Steel](https://ytcards.demolab.com/?id=dIFW-VokgqU&title=Episode+95%3A+You+Don%27t+Know+Anything+About+Steel&lang=en&timestamp=1728471613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Episode 95: You Don't Know Anything About Steel")](https://www.youtube.com/watch?v=dIFW-VokgqU)
@@ -38,3 +32,5 @@ For detailed information about our group and recent publications, please visit o
 [![Mighty Mushrooms: Inspiring Advanced Metamaterials for Energy Dissipation](https://ytcards.demolab.com/?id=bogVifUpb2U&title=Mighty+Mushrooms%3A+Inspiring+Advanced+Metamaterials+for+Energy+Dissipation&lang=en&timestamp=1724911218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mighty Mushrooms: Inspiring Advanced Metamaterials for Energy Dissipation")](https://www.youtube.com/watch?v=bogVifUpb2U)
 [![Use SciSpace + ChatGPT instead of Google Scholar for literature reviews](https://ytcards.demolab.com/?id=sN6EQIKeUW4&title=Use+SciSpace+%2B+ChatGPT+instead+of+Google+Scholar+for+literature+reviews&lang=en&timestamp=1724855858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Use SciSpace + ChatGPT instead of Google Scholar for literature reviews")](https://www.youtube.com/watch?v=sN6EQIKeUW4)
 <!-- END YOUTUBE-CARDS -->
+
+For detailed information about our group and recent publications, please visit our [official website](https://my.eng.utah.edu/~sparks/group.html).
