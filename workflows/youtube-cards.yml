@@ -3,7 +3,7 @@ on:
   push:
   schedule:
     # Runs every hour, on the hour
-    - cron: "0 0 * * FRI"
+    - cron: "0 0 * * SUN"
   workflow_dispatch:
 
 jobs:
