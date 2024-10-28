@@ -28,6 +28,8 @@ We continuously seek driven individuals to join our research efforts. Contact Dr
 
 For detailed information about our group and recent publications, please visit our [official website](https://my.eng.utah.edu/~sparks/group.html).
 
+
+## 📹 **Youtube Channel**
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Episode 95: You Don't Know Anything About Steel](https://ytcards.demolab.com/?id=dIFW-VokgqU&title=Episode+95%3A+You+Don%27t+Know+Anything+About+Steel&lang=en&timestamp=1728471613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Episode 95: You Don't Know Anything About Steel")](https://www.youtube.com/watch?v=dIFW-VokgqU)
 [![Revolutionizing Materials Informatics Education with nanoHUB: No-install, Browser-based Tools](https://ytcards.demolab.com/?id=c9dmV4s2BBs&title=Revolutionizing+Materials+Informatics+Education+with+nanoHUB%3A+No-install%2C+Browser-based+Tools&lang=en&timestamp=1727501818&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Revolutionizing Materials Informatics Education with nanoHUB: No-install, Browser-based Tools")](https://www.youtube.com/watch?v=c9dmV4s2BBs)
